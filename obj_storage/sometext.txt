@@ -1,0 +1,3 @@
+Every cell hi in the body with a nucleus (a compartment in most cells) has the same complete set of genes. A gene is made of DNA (deoxyribonucleic acid) and is basically a type of genetic instruction. Those instructions can be used for making molecules and controlling the chemical reaction of life. Genes can also be passed from parent to offspring; this is inheritance.
+
+Some genes are active ('on') in some tissues and organs but not in others. This is what makes the difference between a liver cell and a lung cell. Genes are turned on and off during development and in response to environmental changes, such as metabolism and infection.
