@@ -1,5 +1,6 @@
 from minio import Minio
 from minio.error import ResponseError
+from minio.error import NoSuchKey
 import re
 import numpy
 import json
@@ -95,6 +96,6 @@ try:
         main()
     else:
         print("no modifications to output file")
-except ResponseError.NoSuchKey as err:
-    print("input file has been updated or modified and output file has been updated")
+except NoSuchKey as err:
+    print("output file has been created")
     main()
